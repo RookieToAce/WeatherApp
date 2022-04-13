@@ -1,3 +1,3 @@
 package com.example.weatherapp.logic.model
 
-data class Weather(val data: DataResponse, val realtime: RealtimeResponse)
+data class Weather(val data: DataResponse.Daily, val realtime: RealtimeResponse.Realtime)

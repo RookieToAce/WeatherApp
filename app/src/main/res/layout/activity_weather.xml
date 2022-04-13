@@ -19,7 +19,7 @@
         <include layout="@layout/forecast" />
 
         <include layout="@layout/life_index" />
-        
+
     </LinearLayout>
 
 </ScrollView>
